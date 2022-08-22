@@ -1,0 +1,102 @@
+.hero img {
+    background-image: url(./images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    width: 450px;
+    height: 500px;
+    margin-right: 100px;
+
+}
+
+.skip {
+    width: 50%;
+    margin: 10%;
+
+}
+
+.first {
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.first-btn {
+    padding: 5px;
+    background-image: linear-gradient(rgb(183, 128, 26), rgb(153, 30, 30));
+    font-size: larger;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.second-img img {
+    height: 500px;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+.about {
+    width: 50%;
+    margin-left: 250px;
+    padding-top: 100px;
+}
+
+.second-part {
+    margin-top: 100px;
+
+    background-image: url(./images/shapes/7.png);
+
+    background-repeat: no-repeat;
+}
+
+.recipies {
+    text-align: center;
+}
+
+.food-img1 {
+    border: 5px gainsboro;
+    padding: 15px;
+    box-shadow: 5px 5px 10px 5px rgb(239, 232, 232);
+    border-radius: 10px;
+    height: 600px;
+    width: 500px;
+}
+
+.food-img1 img {
+    width: 100%;
+
+
+}
+
+.third-part {
+    display: flex;
+    margin: 50px;
+    justify-content: space-evenly;
+
+
+}
+
+.fort-part {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fort {
+    background-color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    box-shadow: 5px 5px 10px 5px rgb(239, 232, 232);
+    border-radius: 10px;
+}
+
+.last-part {
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 250px;
+    margin-top: 50px;
+}
+
+body {
+    margin: 00px;
+}
